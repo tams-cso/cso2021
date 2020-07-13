@@ -1,7 +1,16 @@
 #site-navbar {
-  background-color: $color-primary;
   position: -webkit-sticky;
   position: sticky;
   top: 0;
   z-index: 100;
+  border-bottom: 2px solid white;
+}
+
+#site-navbar a {
+  font-size: 1.25rem;
+  font-weight: 600;
+}
+#site-navbar .navbar-brand {
+  font-size: 1.5rem;
+  font-weight: 700;
 }

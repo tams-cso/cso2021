@@ -1,0 +1,34 @@
+[
+    {
+        "question": "Is there any kind of preparation we need to do?",
+        "answer": "Although TAMS says the CS track is for those with prior programming experience, the computer science classes do not have any prerequisites and are designed for those without prior programming experience."
+    },
+    {
+        "question": "What language will we use?",
+        "answer": "Most classes are taught in C/C++ while a few are in Python. If you've only ever programmed in high-level languages like Java before, it will be lower-level than what you are used to, but nothing you can't handle :)"
+    },
+    {
+        "question": "What about operating systems?",
+        "answer": "Anything works fine, though Windows users may find a UNIX terminal emulation layer such as <a href=\"https://gitforwindows.org\">Git Bash</a> helpful to run Linux programs (e.g. the <code>vimtutor</code> command below)."
+    },
+    {
+        "question": "Is there a recommended text editor?",
+        "answer": "You will have to learn a command-line editor to use on lab exams; we recommend Vim for this. Its basics can be learned in half an hour by typing <code>vimtutor</code> in your terminal. For general-purpose use Visual Studio Code is a lightweight yet feature-rich editor and CLion is an advanced IDE available with the <a href=\"https://education.github.com/pack\">Github Student Developer Pack</a>."
+    },
+    {
+        "question": "What is your setup like?",
+        "answer": "If you want to know what terminal color scheme or Vim plugins we use, you can look under our <a href=\"https://github.com/orgs/tams-cso/people\">Github accounts</a>."
+    },
+    {
+        "question": "Any recommendations for electives?",
+        "answer": "If you plan to pursue CS as a major, higher-level math courses will be more helpful and more likely to be accepted as credits than UNT's CS courses. Popular choices for second semester include linear algebra and discrete math."
+    },
+    {
+        "question": "Should I get specific hardware?",
+        "answer": "Unless you already plan on doing computationally expensive tasks, you do not need any specialized hardware. For the average user, a Core i5/Ryzen5 CPU, 8 GB RAM, a 256 GB solid state drive, and a 1080p display should be plenty."
+    },
+    {
+        "question": "Any other tips?",
+        "answer": "Please don't procrastinate on homework unless you want to get traumatized from trying to write thousands of lines in one week. Just ask any of the seniors."
+    }
+]

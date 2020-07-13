@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Web Dev",
+        "description": "The TAMS Web Dev Committee is a community for TAMS students interested in web development. In this community, web developers will be able to gain the experience of collaborating with others to create professional websites. The committee also aims to educate people in web development, which will be done through workshops."
+    },
+    {
+        "name": "Open Source",
+        "description": "We want to make an impact in open-source projects and introduce TAMS students to the many benefits of contributing to open source, including developing their coding expertise, developing problem solving skills, and the knowledge that you are making a sizable impact to thousands of people worldwide. "
+    },
+    {
+        "name": "Girls Who Code",
+        "description": "We are the TAMS committee of Girls Who Code under CSO! Our mission is to encourage girls in the Denton area to pursue careers in computer science by working with the organization Girls Who Code and volunteering with local schools. Come join us in our efforts to close the gender gap in CS and change the image of modern programmers!"
+    }
+]
