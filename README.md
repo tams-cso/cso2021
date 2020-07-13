@@ -1,6 +1,6 @@
 # CSO Website 2020-2021
 
-The official TAMS computer science organization website for the 2020-2021 school year.
+The official TAMS computer science organization website for the 2020-2021 school year. Note that we're using Yarn rather than npm, because Vercel (our deployment tool) also uses Yarn.
 
 ## Installation
 
