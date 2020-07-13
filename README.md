@@ -12,6 +12,14 @@ The official TAMS computer science organization website for the 2020-2021 school
 
 Help is more than welcome. If you'd like to help, please work on a branch and open a pull request when your changes are ready. 
 
+## Structure
+```
+src
+- pages (contains the pages, rendered with the filename as the URL (e.g. duck-diaries goes to /duck-diaries)
+- components (assorted components for reuse)
+- data (json data to populate the page source files)
+- images (exactly what it sounds like)
+- styles (sass styles, go to the _variables.scss file to override bootstrap defaults)
 
 Original theme README:
 
