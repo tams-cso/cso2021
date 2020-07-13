@@ -4,13 +4,23 @@
   top: 0;
   z-index: 100;
   border-bottom: 2px solid white;
+  background-color: $black;
 }
 
 #site-navbar a {
-  font-size: 1.25rem;
   font-weight: 600;
+  text-align: center;
 }
+
 #site-navbar .navbar-brand {
-  font-size: 1.5rem;
   font-weight: 700;
+}
+
+@media screen and (min-width: 1020px) {
+  #site-navbar a {
+    font-size: 2.5vw;
+  }
+  #site-navbar .navbar-brand {
+    font-size: 3vw;
+  }
 }
