@@ -15,23 +15,13 @@
         "facebook": "https://www.facebook.com/groups/288925415838249/"
     },
     {
-        "name": "Code-Ed",
-        "description": "We are the Code-Ed committee under CSO. We help elementary and middle school students strengthen their programming skills to make cool programs and learn more about Computer Science.",
-        "facebook": "https://www.facebook.com/groups/1098210807221127/"
-    },
-    {
-        "name": "Good Samaritan",
-        "description": "Our mission is to help senior citizens with their technology problems and questions. No CS experience necessary. If you know how to navigate social media, your phone or your computer, you're already an expert!",
-        "facebook": "https://www.facebook.com/groups/292534141766054/"
-    },
-    {
         "name": "API Masters",
         "description": "Our vision is to serve and inspire the TAMS community and the greater Denton community by instructing and involving student developers in the use of APIs. We aim to spread information of APIs and cool API projects through a novel approach of “mini-thons,” which are miniature hackathons, an involved and encouraging Facebook community, and community outreach.",
         "facebook": "https://www.facebook.com/groups/267939461256242/"
     },
     {
         "name": "Cybersecurity",
-        "description": "",
+        "description": "The TAMS CSO Cybersecurity Committee is here to introduce you to the fascinating world of computer security. We will be hosting theoretical and practical lessons as well as hands-on activities and competitions to develop skills in binary exploitation, reverse engineering, networking, digital forensics, and cryptography. Come and join if you would like to push the boundaries of your knowledge in computer science beyond what you are taught!",
         "facebook": "https://www.facebook.com/groups/hacking.cso.tams/"
     },
     {
@@ -40,8 +30,18 @@
         "facebook": "https://www.facebook.com/groups/579625052673505/"
     },
     {
+        "name": "Code-Ed",
+        "description": "We are the Code-Ed committee under CSO. We help elementary and middle school students strengthen their programming skills to make cool programs and learn more about Computer Science.",
+        "facebook": "https://www.facebook.com/groups/1098210807221127/"
+    },
+    {
         "name": "USACO",
         "description": "We are the TAMS USACO Committee under CSO. Our committee is committed to helping TAMS students learn all there is about the USACO programming contest, including what it is, how to prepare for it, and what to do during the contest. We will cover algorithms and data structures necessary to pass the Bronze, Silver, and Gold Divisions of the USACO contest, as well as host practice contests in tandem with CSO.",
         "facebook": ""
+    },
+    {
+        "name": "Good Samaritan",
+        "description": "Our mission is to help senior citizens with their technology problems and questions. No CS experience necessary. If you know how to navigate social media, your phone or your computer, you're already an expert!",
+        "facebook": "https://www.facebook.com/groups/292534141766054/"
     }
 ]
