@@ -2,32 +2,52 @@
     {
         "name": "Web Dev",
         "description": "The TAMS Web Dev Committee is a community for TAMS students interested in web development. In this community, web developers will be able to gain the experience of collaborating with others to create professional websites. The committee also aims to educate people in web development, which will be done through workshops.",
-        "facebook": "https://www.facebook.com/groups/250029143103763/"
+        "facebook": "https://www.facebook.com/groups/250029143103763/",
+        "headOne": "Zach Tang",
+        "headOneDescription": "Hi ducks! I’m Zach, the 2021 Web Dev committee head. I enjoy playing sports like frisbee (the best sport at TAMS) and coding websites in my free time. Let me know if you have any questions about the committee or if you just want to talk."
     },
     {
         "name": "Open Source",
         "description": "We want to make an impact in open-source projects and introduce TAMS students to the many benefits of contributing to open source, including developing their coding expertise, developing problem solving skills, and the knowledge that you are making a sizable impact to thousands of people worldwide.",
-        "facebook": "https://www.facebook.com/groups/633979174126891/"
+        "facebook": "https://www.facebook.com/groups/633979174126891/",
+        "headOne": "Nathaniel Brown",
+        "headOneDescription": "Hello! My name is Nathaniel and I’ll be one of your Open Source and API Masters committee heads. I like to run, mow lawns and read books on fonts. If you ever want to talk about these topics or share a cool new Mac shortcut you’ve learned, feel free to reach out. I’m looking forward to an exciting year!",
+        "headTwo": "Pranay Gosar",
+        "headTwoDescription": "Hi! My name is Pranay and I’ll be one of your Open Source committee heads. In my free time, I enjoy tetris and other select games, playing badminton, and reading whatever book I can get my hands on. Feel free to reach out if you have any questions about anything or want to challenge me to a game of badminton. I’m looking forward to this upcoming year!"
     },
     {
         "name": "Girls Who Code",
         "description": "We are the TAMS committee of Girls Who Code under CSO! Our mission is to encourage girls in the Denton area to pursue careers in computer science by working with the organization Girls Who Code and volunteering with local schools. Come join us in our efforts to close the gender gap in CS and change the image of modern programmers!",
-        "facebook": "https://www.facebook.com/groups/288925415838249/"
+        "facebook": "https://www.facebook.com/groups/288925415838249/",
+        "headOne": "Kevin Kim",
+        "headOneDescription": "What’s poppin’ duckies! My name is Kevin and I will be one of your 2020-21 Girls Who Code committee head! Some of my hobbies and interests include photography, fashion, and music! If you want to talk to me about any of these things or even maybe about Girls Who Code, feel free to reach out and ask me anything. Oh, I’m also the manager of VIBE, the TAMS dance club (Grace Liu will try to convince you otherwise). Anyways, I’m so excited to get to know all of you and really create a difference together!",
+        "headTwo": "Grace Liu",
+        "headTwoDescription": "Hello! My name is Grace Liu, and I’m excited to be one of your committee heads for TAMS Girls Who Code 20-21. I like coding, drawing, dancing, and just chilling in general. If you ever have any questions or just want to hang out, feel free to hit me up! I love meeting new people, and I’m almost always free :-). x"
     },
     {
         "name": "API Masters",
         "description": "Our vision is to serve and inspire the TAMS community and the greater Denton community by instructing and involving student developers in the use of APIs. We aim to spread information of APIs and cool API projects through a novel approach of “mini-thons,” which are miniature hackathons, an involved and encouraging Facebook community, and community outreach.",
-        "facebook": "https://www.facebook.com/groups/267939461256242/"
+        "facebook": "https://www.facebook.com/groups/267939461256242/",
+        "headOne": "Nathaniel Brown",
+        "headOneDescription": "Hello! My name is Nathaniel and I’ll be one of your Open Source and API Masters committee heads. I like to run, mow lawns and read books on fonts. If you ever want to talk about these topics or share a cool new Mac shortcut you’ve learned, feel free to reach out. I’m looking forward to an exciting year!",
+        "headTwo": "Sridhar Nandigam",
+        "headTwoDescription": "Hi, I’m Sridhar and I’m from Frisco. I simply love working with anything cool that catches my eye, particularly in the field of artificial intelligence. I always love learning cool new things and meeting cool new people!"
     },
     {
         "name": "Cybersecurity",
         "description": "The TAMS CSO Cybersecurity Committee is here to introduce you to the fascinating world of computer security. We will be hosting theoretical and practical lessons as well as hands-on activities and competitions to develop skills in binary exploitation, reverse engineering, networking, digital forensics, and cryptography. Come and join if you would like to push the boundaries of your knowledge in computer science beyond what you are taught!",
-        "facebook": "https://www.facebook.com/groups/hacking.cso.tams/"
+        "facebook": "https://www.facebook.com/groups/hacking.cso.tams/",
+        "headOne": "Daniel Ting",
+        "headOneDescription": "Hey guys, I'm the committee head for Music Everywhere. I love everything computers and I'm also into casual gaming and ping pong, classical piano music, and twisty puzzles. I'm always available in computer lab or Mac from 10 to 11 PM (except for Wednesdays because of Ignite, which y'all should totally join BTW), and I'd love to talk about the latest software/hardware, play dumb browser games, or help out on Keathly's infamous homeworks."
     },
     {
         "name": "Hardware",
         "description": "The TAMS Hardware Committee aims to provide computer hardware related services to the TAMS community in the form of workshops and volunteering opportunities. As a CSO committee, we run hands on biweekly workshops where we teach concepts in digital logic, electrical engineering, and programming. We also run PCs2Prosper, a volunteering opportunity where you can sign up to refurbish and fix laptops and computers for people in need.",
-        "facebook": "https://www.facebook.com/groups/579625052673505/"
+        "facebook": "https://www.facebook.com/groups/579625052673505/",
+        "headOne": "Henry Castillo",
+        "headOneDescription": "What’s up :0 I’m Henry, a 2021 hardware committee head! I like video games, programming, video editing, and AI. I hope you enjoy the committee’s activities this year, so please contact me for any feedback, questions, or if you just want to play overwatch! (widow 1v1 hs only)",
+        "headTwo": "Ernest Lu",
+        "headTwoDescription": "Yo I’m Ernest and I’m a 2021 hardware committee head! In my free time, I play video games, sleep, and participate in programming competitions. We will hold many exciting workshops this year so make sure to stay updated on our facebook group! Feel free to contact me if you have any questions about the committee or anything else."
     },
     {
         "name": "Code-Ed",
@@ -37,11 +57,19 @@
     {
         "name": "USACO",
         "description": "We are the TAMS USACO Committee under CSO. Our committee is committed to helping TAMS students learn all there is about the USACO programming contest, including what it is, how to prepare for it, and what to do during the contest. We will cover algorithms and data structures necessary to pass the Bronze, Silver, and Gold Divisions of the USACO contest, as well as host practice contests in tandem with CSO.",
-        "facebook": "https://www.facebook.com/groups/3578375718845467/"
+        "facebook": "https://www.facebook.com/groups/3578375718845467/",
+        "headOne": "Joseph Li",
+        "headOneDescription": "Hey everyone! I’m Joseph and I’m super excited to be one of your 2021 USACO Committee heads! Some of my hobbies are frisbee, tennis, and league of legends. If you have any questions regarding computer science or competitive programming you can always ask me! Catch me throwing disk in Mac Park or running to catch the Discovery Park bus!",
+        "headTwo": "Jerry Liu",
+        "headTwoDescription": "What’s up y’all, my name is Jerry and I will also be part of the 2021 USACO Committee. I’m from Allen, which is in the Dallas area and around an hour drive from TAMS. In my free time I enjoy working out and playing video games. Feel free to contact me about anything, related to programming or not.",
+        "headThree": "Hubert Yang",
+        "headThreeDescription": "Hello! I’ll be one of your cso committee heads next year. Make sure to check out https://cp-tams.netlify.app/ for quality content in computing :)"
     },
     {
         "name": "Good Samaritan",
         "description": "Our mission is to help senior citizens with their technology problems and questions. No CS experience necessary. If you know how to navigate social media, your phone or your computer, you're already an expert!",
-        "facebook": "https://www.facebook.com/groups/292534141766054/"
+        "facebook": "https://www.facebook.com/groups/292534141766054/",
+        "headOne": "Avi Udash",
+        "headOneDescription": "“Hey everyone! I’m Avi and I will be your committee head for Good Samaritans! I love playing or watching soccer, listening to music, coding, and learning new things! Feel free to contact me if you have any questions or just to talk about anything."
     }
 ]
