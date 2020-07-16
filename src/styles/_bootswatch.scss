@@ -8,6 +8,9 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Darker+Grotesque:wght@
 @import url($web-font-path);
 
 // Navbar ======================================================================
+.navbar {
+  padding: 0 1rem;
+}
 
 // Buttons =====================================================================
 
@@ -227,5 +230,32 @@ h4, h5, h6 {
 
   .list-group-item-heading {
     color: #fff;
+  }
+}
+
+// Custom unstyled link class
+
+.link-unstyled {
+  &,
+  &:visited,
+  &:hover,
+  &:active,
+  &:focus,
+  &:active:hover {
+    font-style: inherit;
+    color: inherit;
+    background-color: transparent;
+    font-size: inherit;
+    text-decoration: none;
+    font-variant: inherit;
+    font-weight: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    border-radius: inherit;
+    border: inherit;
+    outline: inherit;
+    box-shadow: inherit;
+    padding: inherit;
+    vertical-align: inherit;
   }
 }
