@@ -4,3 +4,9 @@
 @import "layout";
 @import "navbar";
 @import "scrollbar";
+
+.execImages {
+    @include media-breakpoint-down(sm) {
+        max-width: 60% !important;
+    }
+}
