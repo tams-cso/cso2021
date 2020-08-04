@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ben Wang",
+        "role": "President",
+        "desc": "Mr president such a cool man :OOO",
+        "picId": "1Q5qpGaf2dSRf5wR3lYkmonY_2NgxJQrE"
+    },
+    {
+        "name": "Anthony Zhou",
+        "role": "Competitions Director",
+        "desc": "Did someone say depth first search?",
+        "picId": "1UB8ypD1wUG0jeAW8ILryIBhVe1hrBDwD"
+    },
+    {
+        "name": "Michael Zhao",
+        "role": "Secretary",
+        "desc": "UwU I like organizing stuff",
+        "picId": "1x_xTjOw5AfeO4wl6wNvDj1f69yb4R-YK"
+    },
+    {
+        "name": "Jon Choi",
+        "role": "Volunteering Director",
+        "desc": "Gotta get those cs hours OwO",
+        "picId": "1Ay5ZhYIJm9G0gyIBVbisedjOT8C0nqiO"
+    },
+    {
+        "name": "Pranoy Dutta",
+        "role": "Treasurer",
+        "desc": "Money printer go brrrr",
+        "picId": "1BMi5YqcffqDYcIFH_9L0C781kqn-9BVK"
+    }
+]

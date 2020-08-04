@@ -3,3 +3,9 @@
 @import "bootswatch";
 @import "layout";
 @import "navbar";
+
+.execImages {
+    @include media-breakpoint-down(sm) {
+        max-width: 60% !important;
+    }
+}
