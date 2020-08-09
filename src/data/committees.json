@@ -50,9 +50,9 @@
         "headTwoDescription": "Yo I’m Ernest and I’m a 2021 hardware committee head! In my free time, I play video games, sleep, and participate in programming competitions. We will hold many exciting workshops this year so make sure to stay updated on our facebook group! Feel free to contact me if you have any questions about the committee or anything else."
     },
     {
-        "name": "Code-Ed",
-        "description": "We are the Code-Ed committee under CSO. We help elementary and middle school students strengthen their programming skills to make cool programs and learn more about Computer Science.",
-        "facebook": "https://www.facebook.com/groups/1098210807221127/"
+        "name": "Tech-Ed",
+        "description": "TBD",
+        "facebook": ""
     },
     {
         "name": "USACO",
@@ -66,8 +66,8 @@
         "headThreeDescription": "Hello! I’ll be one of your cso committee heads next year. Make sure to check out https://cp-tams.netlify.app/ for quality content in computing :)"
     },
     {
-        "name": "Good Samaritan",
-        "description": "Our mission is to help senior citizens with their technology problems and questions. No CS experience necessary. If you know how to navigate social media, your phone or your computer, you're already an expert!",
+        "name": "Open Street Map",
+        "description": "Our mission is to help map areas where people in need live. Use satellite images to trace buildings, roadways, and other features in vulnerable areas. No computer science experience needed and completely beginner-friendly! Volunteering hours will be determined by the number of features mapped.",
         "facebook": "https://www.facebook.com/groups/292534141766054/",
         "headOne": "Avi Udash",
         "headOneDescription": "“Hey everyone! I’m Avi and I will be your committee head for Good Samaritans! I love playing or watching soccer, listening to music, coding, and learning new things! Feel free to contact me if you have any questions or just to talk about anything."
