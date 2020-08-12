@@ -9,6 +9,19 @@ const IndexPage = () => (
   <Layout pageInfo={{ pageName: "index" }}>
     <SEO title="Home" keywords={[`gatsby`, `react`, `bootstrap`]} />
     <Container>
+      <Row>
+        <Col style={{ textAlign: "center" }}>
+          <h2>who we are</h2>
+          <p>
+            The TAMS Computer Science Organization (CSO) exposes students to the
+            wide array of topics within computer science such as web
+            development, cybersecurity, APIs, hardware, and much more! It
+            doesn't matter if you have no experience or you aren't in the CS
+            track. Join us as we help you find your passion!
+          </p>
+        </Col>
+      </Row>
+
       <Row style={{minHeight: "90vh"}}>
         <Col>
         <h2 style={{ textAlign: "center" }}>events & updates</h2>
