@@ -13,7 +13,7 @@ const Committees = () => (
       <Row>
         {committees.map((committee) => {
           return (<Col style={{textAlign: "center"}} md={4}>
-            <h4 style={{textTransform: "uppercase", fontWeight: 600}}>{committee.name}</h4>
+            <a target="_blank" rel="noreferrer" href={committee.facebook}><h4 style={{textTransform: "uppercase", fontWeight: 600}}>{committee.name}</h4></a>
             <p style={{lineHeight: "1.15em"}}>{committee.description}</p>
           </Col>)
         })}
