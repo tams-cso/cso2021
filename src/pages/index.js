@@ -81,6 +81,16 @@ const IndexPage = () => (
             </a>{" "}
             - Best Overall, Everest
           </p>
+          <p>
+            <a
+              href="https://devpost.com/software/reacting-rod"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Reacting Rod
+            </a>{" "}
+            - Best Hardware, Hacklahoma
+          </p>
         </Col>
         <Col md={6}>
           <h4>Volunteer opportunities</h4>
