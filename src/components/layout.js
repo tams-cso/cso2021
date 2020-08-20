@@ -39,9 +39,7 @@ const Layout = ({ children, pageInfo }) => (
           <Row noGutters>
             <Col className="footer-col">
               <footer>
-                <span>
-                  © {new Date().getFullYear()}, TAMS CSO
-                </span>
+                <span>© {new Date().getFullYear()}, TAMS CSO</span>
               </footer>
             </Col>
           </Row>

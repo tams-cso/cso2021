@@ -1,14 +1,14 @@
 import React from "react"
-import { Container, Row } from 'react-bootstrap'
+import { Container, Row } from "react-bootstrap"
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
-import PostLink from '../components/PostLink'
+import PostLink from "../components/PostLink"
 
 const DuckDiaries = ({
   data: {
-    allMarkdownRemark: { edges }
-  }
+    allMarkdownRemark: { edges },
+  },
 }) => {
   const Posts = edges
     .filter(edge => !!edge.node.frontmatter.date) // You can filter your posts based on some criteria
@@ -18,9 +18,7 @@ const DuckDiaries = ({
     <Layout pageInfo={{ pageName: "duck-diaries" }}>
       <SEO title="Duck Diaries" />
       <Container fluid>
-        <Row>
-          {Posts}
-        </Row>
+        <Row>{Posts}</Row>
       </Container>
     </Layout>
   )
