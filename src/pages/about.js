@@ -15,7 +15,7 @@ const About = () => (
         <h2 style={{ margin: "auto" }}>the execs</h2>
       </Row>
       <Row>
-        {execs.map(({ name, role, desc, picId }) => {
+        {execs.map(({ name, role, desc, fileName }) => {
           return (
             <Col
               lg
@@ -24,7 +24,7 @@ const About = () => (
             >
               <img
                 className="execImages"
-                src={"http://drive.google.com/uc?id=" + picId}
+                src={"/images/execs/" + fileName}
                 style={{ maxWidth: "100%", height: "auto" }}
               ></img>
               <h4
