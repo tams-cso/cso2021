@@ -2,7 +2,7 @@ module.exports = {
   pathPrefix: "/gatsby-react-bootstrap-starter",
   siteMetadata: {
     title: `TAMS CSO`,
-    description: `A starter that includes react-bootstrap and react-icons, along with SASS compilation.`,
+    description: `The official website for the TAMS Computer Science Organization! Here you will find our events, committees, a blog, and other useful resources.`,
     author: `TAMS CSO`,
   },
   plugins: [
