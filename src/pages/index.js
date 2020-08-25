@@ -99,10 +99,10 @@ const IndexPage = () => (
           <p>Community Projects</p>
           <p>And more!</p>
         </Col>
-        <Col md={6}>
+        {/* <Col md={6}>
           <h4>Club Shirt</h4>
           <p>Coming soon!</p>
-        </Col>
+        </Col> */}
       </Row>
     </Container>
   </Layout>
