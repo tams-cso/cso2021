@@ -11,24 +11,11 @@ const About = () => (
   <Layout pageInfo={{ pageName: "about" }}>
     <SEO title="about" />
     <Container>
-      <Row>
-        <Col style={{ textAlign: "center" }}>
-          <h2>who we are</h2>
-          <p>
-            The TAMS Computer Science Organization (CSO) exposes students to the
-            wide array of topics within computer science such as web
-            development, cybersecurity, APIs, hardware, and much more! It
-            doesn't matter if you have no experience or you aren't in the CS
-            track. Join us as we help you find your passion!
-          </p>
-        </Col>
-      </Row>
-
       <Row style={{ marginBottom: "0.5rem" }}>
         <h2 style={{ margin: "auto" }}>the execs</h2>
       </Row>
       <Row>
-        {execs.map(({ name, role, desc, picId }) => {
+        {execs.map(({ name, role, desc, fileName }) => {
           return (
             <Col
               lg
@@ -37,7 +24,7 @@ const About = () => (
             >
               <img
                 className="execImages"
-                src={"http://drive.google.com/uc?id=" + picId}
+                src={"/images/execs/" + fileName}
                 style={{ maxWidth: "100%", height: "auto" }}
               ></img>
               <h4

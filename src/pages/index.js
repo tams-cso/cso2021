@@ -9,9 +9,22 @@ const IndexPage = () => (
   <Layout pageInfo={{ pageName: "index" }}>
     <SEO title="Home" keywords={[`gatsby`, `react`, `bootstrap`]} />
     <Container>
-      <Row style={{minHeight: "90vh"}}>
+      <Row>
+        <Col style={{ textAlign: "center" }}>
+          <h2>who we are</h2>
+          <p>
+            The TAMS Computer Science Organization (CSO) exposes students to the
+            wide array of topics within computer science such as web
+            development, cybersecurity, APIs, hardware, and much more! It
+            doesn't matter if you have no experience or you aren't in the CS
+            track. Join us as we help you find your passion!
+          </p>
+        </Col>
+      </Row>
+
+      <Row style={{ minHeight: "90vh" }}>
         <Col>
-        <h2 style={{ textAlign: "center" }}>events & updates</h2>
+          <h2 style={{ textAlign: "center" }}>events & updates</h2>
 
           {/* <p>
             08/19 + GA how 2 code: for beginners
@@ -23,9 +36,14 @@ const IndexPage = () => (
 
           </p> */}
 
-          {events.map((event) => {
+          {events.map(event => {
             return (
-              <p>{event.date} + <a href={event.link} target="_blank" rel="noreferrer">{event.description}</a></p>
+              <p>
+                {event.date} +{" "}
+                <a href={event.link} target="_blank" rel="noreferrer">
+                  {event.description}
+                </a>
+              </p>
             )
           })}
         </Col>
@@ -33,9 +51,46 @@ const IndexPage = () => (
       <Row>
         <Col md={6}>
           <h4>Hackathon winners</h4>
-          <p><a href="https://devpost.com/software/tams-student-hub" target="_blank" rel="noreferrer">TAMS Student Hub</a> - Hack Track, HackTAMS</p>
-          <p><a href="https://devpost.com/software/trainer-4khlqn" target="_blank" rel="noreferrer">trAIner</a> - 3rd Overall, NotUniversity Hacks</p>
-          <p><a href="https://devpost.com/software/clove-nlui4w" target="_blank" rel="noreferrer">Clove</a> - Best Overall, Everest</p>
+          <p>
+            <a
+              href="https://devpost.com/software/tams-student-hub"
+              target="_blank"
+              rel="noreferrer"
+            >
+              TAMS Student Hub
+            </a>{" "}
+            - Hack Track, HackTAMS
+          </p>
+          <p>
+            <a
+              href="https://devpost.com/software/trainer-4khlqn"
+              target="_blank"
+              rel="noreferrer"
+            >
+              trAIner
+            </a>{" "}
+            - 3rd Overall, NotUniversity Hacks
+          </p>
+          <p>
+            <a
+              href="https://devpost.com/software/clove-nlui4w"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Clove
+            </a>{" "}
+            - Best Overall, Everest
+          </p>
+          <p>
+            <a
+              href="https://devpost.com/software/reacting-rod"
+              target="_blank"
+              rel="noreferrer"
+            >
+              Reacting Rod
+            </a>{" "}
+            - Best Hardware, Hacklahoma
+          </p>
         </Col>
         <Col md={6}>
           <h4>Volunteer opportunities</h4>
@@ -44,10 +99,10 @@ const IndexPage = () => (
           <p>Community Projects</p>
           <p>And more!</p>
         </Col>
-        <Col md={6}>
+        {/* <Col md={6}>
           <h4>Club Shirt</h4>
           <p>Coming soon!</p>
-        </Col>
+        </Col> */}
       </Row>
     </Container>
   </Layout>
