@@ -1,5 +1,5 @@
 ---
-slug: "/blog/buble-tea-a-unique-drink"
+slug: "/blog/bubble-tea-a-unique-drink"
 date: "2020-08-24"
 title: "Bubble Tea: A unique drink"
 author: "Ben Wang"
