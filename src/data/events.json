@@ -1,10 +1,5 @@
 [
     {
-        "date": "08.30.2020 @ 5PM",
-        "description": "Linux Terminal Workshop",
-        "link": "https://zoom.us/j/7855998924?pwd=aFZTNHlrRkt2RExrMDlZSmJnTWhlQT09"
-    },
-    {
         "date": "09.02.2020 @ 7PM",
         "description": "Committee Intro GA",
         "link": "https://zoom.us/j/7855998924?pwd=aFZTNHlrRkt2RExrMDlZSmJnTWhlQT09"
@@ -23,6 +18,11 @@
         "date": "09.09.2020 @ 8PM",
         "description": "Intro to Git Workshop",
         "link": "https://unt.zoom.us/j/93320408801"
+    },
+    {
+        "date": "09.16.2020 @ 8PM",
+        "description": "Make your own API Workshop",
+        "link": "https://unt.zoom.us/j/93177192493"
     },
     {
         "date": "11.6-8.2020",
