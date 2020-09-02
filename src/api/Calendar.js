@@ -10,13 +10,10 @@ export const getCalendarData = async () => {
 
     dates = sortDates(dates)
 
-    return dates
+    return dates.slice(0, 5)
 }
 
 const sortDates = (dates) => {
-    console.log(dates)
-    console.log(dates[0].start.date)
-
     // Sort events by date
     dates.sort((a, b) => { 
         const date1 = a.start.dateTime? a.start.dateTime : a.start.date
@@ -28,7 +25,7 @@ const sortDates = (dates) => {
      const currentDate = new Date()
      dates = dates.filter(event => {
         const date = event.start.dateTime? event.start.dateTime : event.start.date
-        return new Date(date) >= currentDate
+        return new Date(date) >= currentDate && !event.summary.includes('hackTAMS') // Omit hackTAMS because we hard-coded it
      })
 
      return dates

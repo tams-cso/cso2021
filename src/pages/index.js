@@ -48,10 +48,14 @@ const IndexPage = () => {
         </p> */}
 
         {events.map(event => {
-          const date = new Date(event.start.date? event.start.date : event.start.dateTime)
+          const dateObj = new Date(event.start.date? event.start.date : event.start.dateTime)
+          const date = dateObj.toLocaleString("en-US", {timeZone: "America/Chicago"})
+          const day = pad(date.substring(0, date.indexOf("/")))
+          const month = pad(date.substring(date.indexOf("/") + 1, date.lastIndexOf("/")))
+          const year = date.substring(date.lastIndexOf("/") + 1, date.lastIndexOf("/") + 5)
           return (
             <p>
-              {date.toJSON().substring(0, 10).replaceAll("-", ".") + " @ " + formatAMPM(date)}
+              {`${day}.${month}.${year} @  ${formatAMPM(dateObj)}`}
               {" + "}
               <a href={event.location} target="_blank" rel="noreferrer">
                 {event.summary.replace("CSO - ", "")}
@@ -59,6 +63,13 @@ const IndexPage = () => {
             </p>
           )
         })}
+        <p>
+              {'11.06 - 11.08.2020'}
+              {" + "}
+              <a href={'https://hacktams.org'} target="_blank" rel="noreferrer">
+                HackTAMS
+              </a>
+            </p>
       </Col>
     </Row>
     <Row>
@@ -123,14 +134,17 @@ const IndexPage = () => {
 
 }
 
+function pad(num) {
+  let numberWithLeadingZero = "0" + num
+  return numberWithLeadingZero.substring(numberWithLeadingZero.length - 2)
+}
+
 function formatAMPM(date) {
   var hours = date.getHours();
-  var minutes = date.getMinutes();
-  var ampm = hours >= 12 ? 'pm' : 'am';
+  var ampm = hours >= 12 ? 'PM' : 'AM';
   hours = hours % 12;
   hours = hours ? hours : 12; // the hour '0' should be '12'
-  minutes = minutes < 10 ? '0'+minutes : minutes;
-  var strTime = hours + ':' + minutes + ' ' + ampm;
+  var strTime = hours + ampm;
   return strTime;
 }
 
