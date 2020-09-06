@@ -25,7 +25,7 @@ const sortDates = (dates) => {
      const currentDate = new Date()
      dates = dates.filter(event => {
         const date = event.start.dateTime? event.start.dateTime : event.start.date
-        return new Date(date) >= currentDate && !event.summary.includes('hackTAMS') // Omit hackTAMS because we hard-coded it
+        return new Date(date) >= currentDate - 3600 && !event.summary.includes('hackTAMS') // Omit hackTAMS because we hard-coded it
      })
 
      return dates
