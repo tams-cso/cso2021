@@ -1,3 +1,4 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/f7653b05-1747-4837-bdd1-318bf65d2ed5/deploy-status)](https://app.netlify.com/sites/cso-tams/deploys)
 # CSO Website 2020-2021
 
 The official TAMS computer science organization website for the 2020-2021 school year. Note that we're using Yarn rather than npm, because Netlify (our deployment tool) also uses Yarn.
