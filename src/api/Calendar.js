@@ -16,15 +16,15 @@ export const getCalendarData = async () => {
 const sortDates = (dates) => {
     // Sort events by date
     dates.sort((a, b) => { 
-        const date1 = a.start.dateTime? a.start.dateTime : a.start.date
-        const date2 = b.start.dateTime? b.start.dateTime : b.start.date
+        const date1 = a.end.dateTime ? a.end.dateTime : a.end.date
+        const date2 = b.end.dateTime ? b.end.dateTime : b.end.date
         return new Date(date1) - new Date(date2) 
      })
 
      // Filter out past events
      const currentDate = new Date()
      dates = dates.filter(event => {
-        const date = event.start.dateTime? event.start.dateTime : event.start.date
+         const date = event.end.dateTime ? event.end.dateTime : event.end.date
         return new Date(date) >= currentDate && !event.summary.includes('hackTAMS') // Omit hackTAMS because we hard-coded it
      })
 
