@@ -47,11 +47,20 @@ This would be the BEST case scenario for a student but I think it really highlig
 
 
 9:00 - iPad alarm
+
 10:00 - Eating breakfast while reading news and email during breakfast
+
 11:00 - Taking notes on one side with zoom on the other
+
 12:00 - Eating lunch while creating and editing tasks for the day
+
 13:00 - Practicing math problems during recitation
+
 14:00 - Relaxing watching Youtube and Reading books
+
 18:00 - Dinner
+
 20:00 - Reading a textbook
+
 23:00 - Bed time
+
