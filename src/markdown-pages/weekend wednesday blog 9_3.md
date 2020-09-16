@@ -1,11 +1,9 @@
-﻿---
+---
 slug: "/blog/weekend-wednesday"
 date: "2020-09-03"
-title: "Weekend Wednesday"
+title: "Weekend Wednesday: How the pandemic is an opportunity"
 author: "Ben Wang"
 ---
-#Weekend Wednesday: How the pandemic is an opportunity
-
 
 So recently I watched a video by CGP Grey called “Weekend Wednesday” where he discusses the current drawbacks of the 5 day work week and how the pandemic allowed him to find an interesting solution. I think it’s a really interesting video for many different reasons and puts into consideration the culture of work and university. 
 
