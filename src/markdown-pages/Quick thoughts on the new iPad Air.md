@@ -1,9 +1,10 @@
-﻿---
+---
 slug: "/blog/thoughts-on-ipad-air"
 date: "2020-09-15"
 title: "Quick thoughts on the new iPad Air"
 author: "Ben Wang"
 ---
+
 So recently I just saw the promotional video for Apple’s newest version of the iPad Air and I instantly had some thoughts.
 
 
