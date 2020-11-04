@@ -2,7 +2,7 @@
 slug: "/blog/recommended_channels_1"
 date: "2020-11-4"
 title: "Channelling Your Inner Couch Potato"
-**author: "Joanne Liu, Lisa Li"**
+author: "Joanne Liu, Lisa Li"
 ---
 
 #Introducing...Channel Highlights of the Week!
