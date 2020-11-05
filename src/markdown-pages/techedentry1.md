@@ -1,6 +1,6 @@
 ---
 slug: "/blog/recommended_channels_1"
-date: "2020-11-4"
+date: "2020-11-04"
 title: "Channelling Your Inner Couch Potato"
 author: "Joanne Liu, Lisa Li"
 ---
