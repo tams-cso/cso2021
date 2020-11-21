@@ -63,13 +63,13 @@ const IndexPage = () => {
             </p>
           )
         })}
-        <p>
+        {/* <p>
               {'11.06 - 11.08.2020'}
               {" + "}
               <a href={'https://hacktams.org'} target="_blank" rel="noreferrer">
                 HackTAMS
               </a>
-            </p>
+            </p> */}
       </Col>
     </Row>
     <Row>
