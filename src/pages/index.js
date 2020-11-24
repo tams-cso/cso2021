@@ -46,6 +46,7 @@ const IndexPage = () => {
         <p>
 
         </p> */}
+        <p>11.24.2020 + <a href="/blog/fall-2020-contest-results">[Duck Diaries] CSO Competitions Team on a Winning Streak</a></p>
 
         {events.map(event => {
           const dateObj = new Date(event.start.date? event.start.date : event.start.dateTime)
