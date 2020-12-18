@@ -1,5 +1,5 @@
 ---
-slug: "/blog/teched_on_teded"
+slug: "/blog/learning_about_yourself_psych2go_videos"
 date: "2020-12-14"
 title: "Learning More About Yourself Through Psych2Go Videos"
 author: "Joanne Liu, Lisa Li"
