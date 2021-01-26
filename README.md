@@ -26,7 +26,7 @@ src
 
 Original theme README:
 
-# Gatsby React Bootstrap Starter
+## Gatsby React Bootstrap Starter
 
 A GatsbyJS starter that includes
 
