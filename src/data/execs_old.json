@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Ben Wang",
+        "role": "President",
+        "desc": "Mr president such a cool man :OOO",
+        "fileName": "cursed ben.jpg"
+    },
+    {
+        "name": "Anthony Zhou",
+        "role": "Competitions Director",
+        "desc": "Did someone say depth first search?",
+        "fileName": "Anthony Zhou.jpg"
+    },
+    {
+        "name": "Michael Zhao",
+        "role": "Secretary",
+        "desc": "UwU I like organizing stuff",
+        "fileName": "Michael Zhao.jpg"
+    },
+    {
+        "name": "Jon Choi",
+        "role": "Volunteering Director",
+        "desc": "Gotta get those cs hours OwO",
+        "fileName": "Jeongwoo Choi.jpg"
+    },
+    {
+        "name": "Pranoy Dutta",
+        "role": "Treasurer",
+        "desc": "Money printer go brrrr",
+        "fileName": "Pranoy_Dutta.jpg"
+    }
+]

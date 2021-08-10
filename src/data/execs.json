@@ -1,32 +1,32 @@
 [
     {
-        "name": "Ben Wang",
+        "name": "Kanav Bengani",
         "role": "President",
         "desc": "Mr president such a cool man :OOO",
-        "fileName": "cursed ben.jpg"
+        "fileName": "Kanav_Bengani.jpg"
     },
     {
-        "name": "Anthony Zhou",
+        "name": "Lisa Li",
+        "role": "Vice President",
+        "desc": "UwU I like organizing stuff",
+        "fileName": "Lisa_Li.jpg"
+    },
+    {
+        "name": "Dylan Li",
+        "role": "Hackathon Director",
+        "desc": "Cogito, ergo sum",
+        "fileName": "Dylan_Li.jpg"
+    },
+    {
+        "name": "Zhuoli Xie",
         "role": "Competitions Director",
         "desc": "Did someone say depth first search?",
-        "fileName": "Anthony Zhou.jpg"
+        "fileName": "Zhuoli_Xie.jpg"
     },
     {
-        "name": "Michael Zhao",
-        "role": "Secretary",
-        "desc": "UwU I like organizing stuff",
-        "fileName": "Michael Zhao.jpg"
-    },
-    {
-        "name": "Jon Choi",
-        "role": "Volunteering Director",
-        "desc": "Gotta get those cs hours OwO",
-        "fileName": "Jeongwoo Choi.jpg"
-    },
-    {
-        "name": "Pranoy Dutta",
+        "name": "Jocelyn Zhang",
         "role": "Treasurer",
         "desc": "Money printer go brrrr",
-        "fileName": "Pranoy_Dutta.jpg"
+        "fileName": "Jocelyn_Zhang.jpg"
     }
 ]
