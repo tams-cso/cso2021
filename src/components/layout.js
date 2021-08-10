@@ -43,11 +43,11 @@ const Layout = ({ children, pageInfo }) => (
           <Container className="px-0">
             <Row noGutters className="justify-content-center" >
               <Col style={{textAlign: "center"}}>
-                <Link href="/facebook">
+                <Link target="_blank" href="/facebook">
                   Facebook
                 </Link>
                 &nbsp;|&nbsp;
-                <Link href="/discord">
+                <Link target="_blank" href="/discord">
                   Discord
                 </Link>
                 &nbsp;|&nbsp;
