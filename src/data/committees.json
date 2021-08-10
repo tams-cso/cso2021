@@ -1,47 +1,42 @@
 [
     {
-        "name": "Web Dev",
-        "description": "The TAMS Web Dev Committee is a community for TAMS students interested in web development. In this community, web developers will be able to gain the experience of collaborating with others to create professional websites. The committee also aims to educate people in web development, which will be done through workshops.",
-        "facebook": "https://www.facebook.com/groups/250029143103763/"
-    },
-    {
-        "name": "Open Source",
-        "description": "We want to make an impact in open-source projects and introduce TAMS students to the many benefits of contributing to open source, including developing their coding expertise, developing problem solving skills, and the knowledge that you are making a sizable impact to thousands of people worldwide.",
-        "facebook": "https://www.facebook.com/groups/633979174126891/"
-    },
-    {
-        "name": "Girls Who Code",
-        "description": "We are the TAMS committee of Girls Who Code under CSO! Our mission is to encourage girls in the Denton area to pursue careers in computer science by working with the organization Girls Who Code and volunteering with local schools. Come join us in our efforts to close the gender gap in CS and change the image of modern programmers!",
-        "facebook": "https://www.facebook.com/groups/288925415838249/"
-    },
-    {
-        "name": "API Masters",
-        "description": "Our vision is to serve and inspire the TAMS community and the greater Denton community by instructing and involving student developers in the use of APIs. We aim to spread information of APIs and cool API projects through a novel approach of “mini-thons,” which are miniature hackathons, an involved and encouraging Facebook community, and community outreach.",
-        "facebook": "https://www.facebook.com/groups/267939461256242/"
+        "name": "Code-Ed",
+        "description": "Code-Ed is a CSO Committee aimed at teaching students in Denton schools the basics of programming. We volunteer weekly to teach Denton students basic programming topics ranging from Scratch to Python to Web Development! Your 2021-2022 Committee Heads will be Andrew Zheng and Vidit Biyani so feel free to contact us regarding any concerns/questions!",
+        "facebook": "https://www.facebook.com/groups/tamscodeed2021"
     },
     {
         "name": "Cybersecurity",
         "description": "The TAMS CSO Cybersecurity Committee is here to introduce you to the fascinating world of computer security. We will be hosting theoretical and practical lessons as well as hands-on activities and competitions to develop skills in binary exploitation, reverse engineering, networking, digital forensics, and cryptography. Come and join if you would like to push the boundaries of your knowledge in computer science beyond what you are taught!",
-        "facebook": "https://www.facebook.com/groups/hacking.cso.tams/"
+        "facebook": "https://www.facebook.com/groups/tamscybers3curity2021"
     },
     {
-        "name": "Hardware",
-        "description": "The TAMS Hardware Committee aims to provide computer hardware related services to the TAMS community in the form of workshops and volunteering opportunities. As a CSO committee, we run hands on biweekly workshops where we teach concepts in digital logic, electrical engineering, and programming. We also run PCs2Prosper, a volunteering opportunity where you can sign up to refurbish and fix laptops and computers for people in need.",
-        "facebook": "https://www.facebook.com/groups/579625052673505/"
+        "name": "Girls Who Code",
+        "description": "We are the TAMS Girls Who Code committee under CSO! Our mission is to encourage girls in the Denton area to pursue careers in computer science by working with the national Girls Who Code nonprofit organization and volunteering with local schools. Come join us in our efforts to close the gender gap in computer science and change the image of modern programmers!",
+        "facebook": "https://www.facebook.com/groups/tamsgwc2021"
+    },
+    {
+        "name": "Good Samaritan",
+        "description": "Hello, we are the TAMS Good Samaritan committee!  We offer TAMS students the opportunity to help senior citizens with the basics of technology. No coding experience is needed to volunteer.",
+        "facebook": "https://www.facebook.com/groups/tamsgoodsamaritan2021"
+    },
+    {
+        "name": "IBM Z",
+        "description": "We are the TAMS IBM Z committee under CSO. We provide workshops on Mainframe computing languages and for job opportunities and promote events and competitions surrounding enterprise computing and systems with IBM’s Z Mainframes.",
+        "facebook": "https://www.facebook.com/groups/tamsibmz2021"
+    },
+    {
+        "name": "Open Source",
+        "description": "Our mission is to contribute to massive open source projects like Missing Maps and Wikisource. No computer science experience is needed for either of these opportunities, and if you need any help, we’re here for you! We’ll be hosting monthly editathons this year, so feel free to join us if you just want to hang out. Volunteering hours will be determined by the number of contributions made to either project.",
+        "facebook": "https://www.facebook.com/groups/tamsopensource2021"
     },
     {
         "name": "Tech-Ed",
-        "description": "Tech-Ed is a committee under TAMS CSO that aims to facilitate learning through a variety of online mediums as we enter a new age of remote education. Our mission is to help students within and beyond the TAMS community to simultaneously discover valuable educational resources and expand their own “range” by providing weekly posts on a plethora of thought-invoking subjects.",
-        "facebook": "https://www.facebook.com/groups/tamsteched20202021"
+        "description": "Tech-Ed is a committee under TAMS CSO that aims to facilitate learning through YouTube videos as we enter a new age of remote education. Our mission is to help students within and beyond the TAMS community to simultaneously discover valuable educational resources and expand their own “range” by providing weekly posts on a plethora of thought-invoking subjects. We plan to upload videos ranging from computer science tutorials to TAMS vlogs. Come join Tech-Ed if you’re interested in exploring new topics, introducing others to fascinating ideas, or gaining volunteer hours through the intersection of technology and education!",
+        "facebook": "https://www.facebook.com/groups/tamsteched2021"
     },
     {
-        "name": "USACO",
-        "description": "We are the TAMS USACO Committee under CSO. Our committee is committed to helping TAMS students learn all there is about the USACO programming contest, including what it is, how to prepare for it, and what to do during the contest. We will cover algorithms and data structures necessary to pass the Bronze, Silver, and Gold Divisions of the USACO contest, as well as host practice contests in tandem with CSO.",
-        "facebook": "https://www.facebook.com/groups/3578375718845467/"
-    },
-    {
-        "name": "Missing Maps",
-        "description": "Our mission is to help map areas where people in need live. Use satellite images to trace buildings, roadways, and other features in vulnerable areas. No computer science experience needed and completely beginner-friendly! Volunteering hours will be determined by the number of features mapped.",
-        "facebook": "https://www.facebook.com/groups/292534141766054/"
+        "name": "Web Dev",
+        "description": "Welcome to the Web Dev committee! We hold workshops and other opportunities to help people interested in web development learn how to create websites! Feel free to stop by any of our introductory workshops, as no previous coding experience is necessary.",
+        "facebook": "https://www.facebook.com/groups/tamswebdev2021"
     }
 ]
