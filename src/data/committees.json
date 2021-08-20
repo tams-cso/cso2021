@@ -25,9 +25,9 @@
         "facebook": "https://www.facebook.com/groups/tamsibmz2021"
     },
     {
-        "name": "Open Source",
-        "description": "Our mission is to contribute to massive open source projects like Missing Maps and Wikisource. No computer science experience is needed for either of these opportunities, and if you need any help, we’re here for you! We’ll be hosting monthly editathons this year, so feel free to join us if you just want to hang out. Volunteering hours will be determined by the number of contributions made to either project.",
-        "facebook": "https://www.facebook.com/groups/tamsopensource2021"
+        "name": "Web Dev",
+        "description": "Welcome to the Web Dev committee! We hold workshops and other opportunities to help people interested in web development learn how to create websites! Feel free to stop by any of our introductory workshops, as no previous coding experience is necessary.",
+        "facebook": "https://www.facebook.com/groups/tamswebdev2021"
     },
     {
         "name": "Tech-Ed",
@@ -35,8 +35,8 @@
         "facebook": "https://www.facebook.com/groups/tamsteched2021"
     },
     {
-        "name": "Web Dev",
-        "description": "Welcome to the Web Dev committee! We hold workshops and other opportunities to help people interested in web development learn how to create websites! Feel free to stop by any of our introductory workshops, as no previous coding experience is necessary.",
-        "facebook": "https://www.facebook.com/groups/tamswebdev2021"
+        "name": "Open Source",
+        "description": "Our mission is to contribute to massive open source projects like Missing Maps and Wikisource. No computer science experience is needed for either of these opportunities, and if you need any help, we’re here for you! We’ll be hosting monthly editathons this year, so feel free to join us if you just want to hang out. Volunteering hours will be determined by the number of contributions made to either project.",
+        "facebook": "https://www.facebook.com/groups/tamsopensource2021"
     }
 ]
